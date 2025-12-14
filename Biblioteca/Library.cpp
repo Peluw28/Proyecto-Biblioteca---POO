@@ -601,7 +601,9 @@ void CreateUser()
 	User* newUser = new User(userID + 1, name, role, 0, false);
 	userID++;
 
-	std::cout << "Usuario agregado!\n";
+	users.push_back(newUser);
+
+	std::cout << "Usuario agregado con nombre " << name << " y rol " << role << "\n";
 
 	system("pause");
 	MainMenu();
@@ -824,6 +826,7 @@ void TakeLoan()
 				system("pause");
 				MainMenu();
 			}
+			std::cout << "Usuario encontrado\n";
 			userFound = User;
 			break;
 		}
