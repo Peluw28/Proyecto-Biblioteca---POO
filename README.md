@@ -26,5 +26,6 @@ Al ejecutar el programa, aparece el menú principal en el cual se puede elegir u
 # --- VI. Exportación / Importación --- 
 - export → Guardar los datos actuales en un archivo
 - import → Cargar datos desde un archivo previamente guardado
+  
 ! - Es necesario copiar el destino del archivo para importar / exportar - !
 ---
