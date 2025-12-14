@@ -1,0 +1,18 @@
+﻿  Exporter.cpp
+  Item.cpp
+  Journal.cpp
+  Library.cpp
+C:\Users\dario\Downloads\Biblioteca\Biblioteca\Biblioteca\Library.cpp(320,15): warning C4244: 'inicializando': conversión de '_Rep' a 'int'; posible pérdida de datos
+C:\Users\dario\Downloads\Biblioteca\Biblioteca\Biblioteca\Library.cpp(320,15): warning C4244:         with
+C:\Users\dario\Downloads\Biblioteca\Biblioteca\Biblioteca\Library.cpp(320,15): warning C4244:         [
+C:\Users\dario\Downloads\Biblioteca\Biblioteca\Biblioteca\Library.cpp(320,15): warning C4244:             _Rep=float
+C:\Users\dario\Downloads\Biblioteca\Biblioteca\Biblioteca\Library.cpp(320,15): warning C4244:         ]
+C:\Users\dario\Downloads\Biblioteca\Biblioteca\Biblioteca\Library.cpp(325,9): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\dario\Downloads\Biblioteca\Biblioteca\Biblioteca\Library.cpp(429,16): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\dario\Downloads\Biblioteca\Biblioteca\Biblioteca\Library.cpp(443,16): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\dario\Downloads\Biblioteca\Biblioteca\Biblioteca\Library.cpp(457,16): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Loan.cpp
+  Thesis.cpp
+  Generando código...
+C:\Users\dario\Downloads\Biblioteca\Biblioteca\Biblioteca\Library.cpp(1018,1): warning C4717: 'MainMenu': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+  Biblioteca.vcxproj -> C:\Users\dario\Downloads\Biblioteca\Biblioteca\x64\Debug\Biblioteca.exe
